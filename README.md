@@ -6,12 +6,12 @@
 </h1>
 
 
-<h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
+<h3 align="center">A passionate Machine Learning and AI Engineer from Pakistan</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **AI & Ml solution for Climate Change**
+ 🔭 I’m currently working on **AI SQL & Ml**
  
- 🌱 I’m currently learning **Deep Learning, Computer Vision, NLP**
+ 🌱 I’m currently learning **Deep Learning, Data Science, Computer Vision, NLP**
